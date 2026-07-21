@@ -17,18 +17,18 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq098_000-jc.yaml, hash: 'sha256:ccf9924628b847517312efb01cdf46321418dd8343e5cf9dc2dbd5374d51d551'}
+  - {seq: 0, filename: KR3eq098_000-jc.yaml, hash: 'sha256:08ae802da4be9cb54931d76f650e41b1a8735af03335909ff2177e5116fac051'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq098_000-jc.markers.yaml, hash: 'sha256:00ede1fb8387d016484555aab4e1ea27654b61d1af686680d2f7e6a6dc7afb3a'}
+  - {seq: 0, role: markers, filename: assets/KR3eq098_000-jc.markers.yaml, hash: 'sha256:707a826017cc20d39a34634609407de0fddce45faf75d17f3971985081fd1071'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3eq098_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 3842
   label: 序
   type: section
   level: 1
-hash: sha256:e726ee0b164b34d7bc73ef996f4b181e604bcf07b7e1089a68ee95fe98a934c0
+hash: sha256:a796ee9a4e82e7876e915a0f5bb351b86e79d2d71f8c2e7ae557232dcab68a90
